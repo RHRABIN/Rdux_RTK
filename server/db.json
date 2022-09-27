@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "email": "rhrabin@gmail.com",
+      "password": "$2a$10$LBxMOjDVIS5VTjARlYfzW.HRG9ZtEQBCqrCc86UKEJFvjBnv.3im6",
+      "name": "RH Rabin",
+      "url": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?size=338&ext=jpg&uid=R69068951&ga=GA1.2.1020109167.1664221492",
+      "id": 1
+    },
+    {
+      "email": "rhrabin934602@gmail.com",
+      "password": "$2a$10$6LGNMnXlPACc2rh6OLVGM.MzbxgO3EvY2wEm2KRaM0uooNHVUzbIW",
+      "name": "RH Rabin",
+      "url": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&uid=R69068951&ga=GA1.2.1020109167.1664221492",
+      "id": 2
+    },
+    {
+      "email": "rhrabin865497@gmail.com",
+      "password": "$2a$10$5O3A4M19UHSiCOZMj52ntOwbQw3DI3n4mea7/Ws4EHYi9l6tvi/ke",
+      "name": "RH Rabin2",
+      "url": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5907.jpg?size=338&ext=jpg&uid=R69068951&ga=GA1.2.1020109167.1664221492",
+      "id": 3
+    }
+  ],
+  "teams": [
+    {
+      "name": "Developer",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
+      "color": "#dc4a4a",
+      "date": "Mon Sep 26 2022",
+      "id": 1
+    },
+    {
+      "name": "Designer",
+      "description": "Seems to work as expected on their example: jsonplaceholder.typicode.com/… But your source data is an object and it should be an array",
+      "color": "#f7e16a",
+      "date": "Tue Sep 27 2022",
+      "id": 2
+    },
+    {
+      "name": "Teaster",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer",
+      "color": "#2e38bb",
+      "date": "Tue Sep 27 2022",
+      "id": 3
+    }
+  ],
+  "team_members": [
+    {
+      "cardId": 2,
+      "email": "rhrabin934602@gmail.com",
+      "id": 1
+    },
+    {
+      "cardId": 2,
+      "email": "rhrabin865497@gmail.com",
+      "id": 2
+    }
+  ],
+  "backlog": [
+    {
+      "id": 1,
+      "name": "Designer",
+      "color": "#dc4a4a",
+      "title": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer",
+      "date": "Mon Sep 26 2022",
+      "url": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?size=338&ext=jpg&uid=R69068951&ga=GA1.2.1020109167.1664221492"
+    },
+    {
+      "name": "Designer",
+      "title": "hell df dfdf dsfds dsfdsfdsf sdf dsfdsf f",
+      "url": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&uid=R69068951&ga=GA1.2.1020109167.1664221492",
+      "color": "#f7e16a",
+      "date": "Tue Sep 27 2022",
+      "id": 2
+    },
+    {
+      "name": "Teaster",
+      "title": "dfdfd",
+      "url": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&uid=R69068951&ga=GA1.2.1020109167.1664221492",
+      "color": "#2e38bb",
+      "date": "Tue Sep 27 2022",
+      "id": 3
+    }
+  ],
+  "ready": [
+    {}
+  ],
+  "doing": [
+    {}
+  ],
+  "review": [
+    {}
+  ],
+  "blocked": [
+    {}
+  ],
+  "done": [
+    {}
+  ]
+}
